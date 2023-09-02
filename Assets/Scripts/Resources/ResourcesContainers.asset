@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9bb71c6410c1074d88f19da32d3bcad, type: 3}
+  m_Name: ResourcesContainers
+  m_EditorClassIdentifier: 
+  BlockSpriteList:
+  - {fileID: 21300000, guid: b9bceb368a08dee4f882599cfd68e022, type: 3}
+  - {fileID: 21300000, guid: 0d815e7b3d05f8a4096810457ac4d468, type: 3}
+  - {fileID: 21300000, guid: 72831d7d2c6ed3e4ca1d831299b6bb74, type: 3}
+  - {fileID: 21300000, guid: 7a56f0907e0cf5a498518d169b9c11aa, type: 3}
+  - {fileID: 21300000, guid: 8edf0e8e117d64b459deb03e2c1872d5, type: 3}
+  - {fileID: 21300000, guid: 3a915cc960ab3124ab6e623ae072abfa, type: 3}
+  - {fileID: 21300000, guid: 3de539aae5abd7744bc4eda3b980df3d, type: 3}
+  - {fileID: 21300000, guid: 0c9dee7dcf4bc3f45baec69184e407f3, type: 3}
+  - {fileID: 21300000, guid: b2c45e22428b93f4da0cb0d9cf3aeb81, type: 3}
+  - {fileID: 21300000, guid: db956636c2b682d4694772b76c965eed, type: 3}
+  - {fileID: 21300000, guid: 77f494e6adafd7b4ba64d54494a4a367, type: 3}
+  NumSpriteList:
+  - {fileID: 21300002, guid: 21f7353c908fb1243b408e04a26d3448, type: 3}
+  - {fileID: 21300004, guid: 21f7353c908fb1243b408e04a26d3448, type: 3}
+  - {fileID: 21300006, guid: 21f7353c908fb1243b408e04a26d3448, type: 3}
+  - {fileID: 21300008, guid: 21f7353c908fb1243b408e04a26d3448, type: 3}
+  - {fileID: 21300010, guid: 21f7353c908fb1243b408e04a26d3448, type: 3}
+  - {fileID: 21300012, guid: 21f7353c908fb1243b408e04a26d3448, type: 3}
+  - {fileID: 21300014, guid: 21f7353c908fb1243b408e04a26d3448, type: 3}
+  - {fileID: 21300016, guid: 21f7353c908fb1243b408e04a26d3448, type: 3}
+  - {fileID: 21300018, guid: 21f7353c908fb1243b408e04a26d3448, type: 3}
+  - {fileID: 21300020, guid: 21f7353c908fb1243b408e04a26d3448, type: 3}
+  - {fileID: 21300022, guid: 21f7353c908fb1243b408e04a26d3448, type: 3}
+  clickClip: {fileID: 8300000, guid: 08d4521243ece7b4f824761ffbc03e19, type: 3}
+  failureClip: {fileID: 8300000, guid: 2729ef906d0c23c40883b8c96a54ce9f, type: 3}
+  blockItemPre: {fileID: 2365659603202884157, guid: ba7e825e39618b747873b695c72a497b,
+    type: 3}
+  levelItemPre: {fileID: 1989700920217464, guid: af5d8d599d3f89f418502f2fb163ba1b,
+    type: 3}
